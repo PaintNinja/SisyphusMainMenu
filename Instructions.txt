@@ -1,0 +1,3 @@
+Unzip this zip to a folder, then run "SisyphusMainMenu-v1.hta".
+
+By Oscar Nardone
