@@ -1,0 +1,6 @@
+Note: All dates are in DD/MM/YYYY
+
+29/11/2014
+-----------
++ Clicking on a menu item no longer starts IE and leaves a blank IE window open
++* Improved fadein animation
